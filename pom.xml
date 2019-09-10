@@ -27,6 +27,11 @@
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 		</dependency>
+		<dependency>
+		    <groupId>io.projectreactor.tools</groupId>
+		    <artifactId>blockhound</artifactId>
+		    <version>1.0.0.M5</version>
+		</dependency>
 	</dependencies>
 
 	<build>
