@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * An implementation of {@link GreetingService} that makes a blocking call
+ * An implementation of {@link GreetingService} that simulates blocking I/O
  * in {@link #getGreeting()}.
  */
 @Service

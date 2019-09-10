@@ -1,5 +1,9 @@
 package meltdown.demo;
 
+/**
+ * Examples found in code reviews.
+ * Names have been changed.
+ */
 public class BadExamples {
 
 	/*
