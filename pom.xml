@@ -6,13 +6,10 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.8.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>avoiding-reactor-meltdown</groupId>
 	<artifactId>demo</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>Avoiding Reactor Meltdown Demo</name>
-	<description>Avoiding Reactor Meltdown Demo project</description>
 
 	<properties>
 		<java.version>11</java.version>
