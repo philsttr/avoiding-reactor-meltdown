@@ -1,7 +1,7 @@
 package meltdown.demo.greeting;
 
 /**
- * An blocking service that returns greetings in random languages.
+ * A blocking service that returns greetings in random languages.
  */
 interface GreetingService {
 
