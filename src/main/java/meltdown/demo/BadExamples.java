@@ -13,8 +13,7 @@ public class BadExamples {
 		} catch (Exception e) {
 			return Mono.error(new ApplicationException());
 		}
-		return Mono.empty()
-				.then(barNotifier.sendRemoveBarEvent(barId));
+		return barNotifier.sendRemoveBarEvent(barId);
 	}
 	 */
 }
