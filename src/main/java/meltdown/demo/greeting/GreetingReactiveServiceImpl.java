@@ -18,7 +18,7 @@ class GreetingReactiveServiceImpl implements GreetingReactiveService {
 		return Mono.fromCallable(greetingService::getGreeting)
 				// properly schedule above blocking call on
 				// scheduler meant for blocking tasks
-				.subscribeOn(Schedulers.elastic());
+				.subscribeOn(Schedulers.boundedElastic());
 	}
 
 	/**
