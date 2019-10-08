@@ -1,8 +1,8 @@
 Avoiding Reactor Meltdown
 =========================
 
-Demo project for the *Avoiding Reactor Meltdown* talk
-presented at [Spring One 2019](https://springoneplatform.io/2019/sessions/avoiding-reactor-meltdown).
+Demo project for the [*Avoiding Reactor Meltdown*](https://springoneplatform.io/2019/sessions/avoiding-reactor-meltdown) talk
+presented at [SpringOne Platform](https://springoneplatform.io) 2019.
 
 Branches:
 * [`start`](https://github.com/philsttr/avoiding-reactor-meltdown/tree/start) - state at the start of the demo, with improper blocking calls
