@@ -1,7 +1,7 @@
 Avoiding Reactor Meltdown
 =========================
 
-Demo project for the [*Avoiding Reactor Meltdown*](https://springoneplatform.io/2019/sessions/avoiding-reactor-meltdown) talk
+Demo project for the [*Avoiding Reactor Meltdown*](https://www.youtube.com/watch?v=xCu73WVg8Ps) talk
 presented at [SpringOne Platform](https://springoneplatform.io) 2019.
 
 Branches:
